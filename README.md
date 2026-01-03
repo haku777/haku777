@@ -1,6 +1,6 @@
 # Developer ```Jimmy Yahir Guterrez```
 
-&rarr; here it's my web page <a href="https://haku777.vercel.app/" target="_blank">Web Page</a>
+&rarr; web page <a href="https://haku777.vercel.app/" target="_blank">Web Page</a>
 
 <a href="https://www.linkedin.com/in/jimmy-haku/" target="_blank">Linkedin</a>
 
