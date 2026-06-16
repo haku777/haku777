@@ -10,9 +10,9 @@
 
 >▪ Frontend: JavaScript, HTML5, CSS3, Razor, Sass/Less, SEO, UX/UI.
 
->▪ Bases de Datos: SQL Server, Oracle, MySQL.
+>▪ Databases: SQL Server, Oracle, MySQL.
 
->▪ Herramientas y plataformas: GIT, GitHub, GitLab, GitFlow, Azure DevOps, Postman, Swagger, word, excel, photoshop, md, API SOAP.
+>▪ Tools and knowledge: GIT, GitHub, GitLab, GitFlow, Azure DevOps, Postman, Swagger, word, excel, photoshop, md, API SOAP.
 
 `Learning...react, angular, phyton, IA`
 
