@@ -1,8 +1,8 @@
 # Developer ```Jimmy Yahir Gutierrez Ballen```
 
-&rarr; web page <a href="https://haku777.vercel.app/" target="_blank">Web Page</a>
+&rarr; <a href="https://haku777.vercel.app/" target="_blank">Web Page</a>
 
-<a href="https://www.linkedin.com/in/jimmy-haku/" target="_blank">Linkedin</a>
+&rarr; <a href="https://www.linkedin.com/in/jimmy-haku/" target="_blank">Linkedin</a>
 
 ## skills:
 
@@ -24,4 +24,4 @@
 </a>
 </p>
 
-> :memo: Creado por <a href="https://haku777.vercel.app/" target="_blank">Jimmy Yahir Gutierrez Ballen</a>
+> :memo: Created by <a href="https://haku777.vercel.app/" target="_blank">Jimmy Yahir Gutierrez Ballen</a>
