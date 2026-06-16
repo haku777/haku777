@@ -1,4 +1,4 @@
-# Developer ```Jimmy Yahir Guterrez```
+# Developer ```Jimmy Yahir Gutierrez Ballen```
 
 &rarr; web page <a href="https://haku777.vercel.app/" target="_blank">Web Page</a>
 
@@ -6,16 +6,15 @@
 
 ## skills:
 
->▪ Backend: C#, .NET Core/Framework, Entity Framework, LINQ, API REST,
-Microservicios, LINQ, POO, API Rest.
+>▪ Backend: C#, .NET, .Net Framework, Entity Framework, LINQ, API REST, Microservicios, LINQ, POO, CI/CD, MVC.
 
 >▪ Frontend: JavaScript, HTML5, CSS3, Razor, Sass/Less, SEO, UX/UI.
 
 >▪ Bases de Datos: SQL Server, Oracle, MySQL.
 
->▪ Herramientas: GIT, Azure DevOps, GitFlow, CI/CD, Postman, Swagger, word, excel.
+>▪ Herramientas y plataformas: GIT, GitHub, GitLab, GitFlow, Azure DevOps, Postman, Swagger, word, excel, photoshop, md, API SOAP.
 
-`Learning...phyton, ia`
+`Learning...react, angular, phyton, IA`
 
 ## ⚙️🛠️📜 &nbsp;GitHub Analytics
 <p align="center">
@@ -25,4 +24,4 @@ Microservicios, LINQ, POO, API Rest.
 </a>
 </p>
 
-> :memo: Creado por <a href="https://haku777.vercel.app/" target="_blank">Jimmy Yahir Gutierrez</a> &copy; 2023
+> :memo: Creado por <a href="https://haku777.vercel.app/" target="_blank">Jimmy Yahir Gutierrez Ballen</a>
